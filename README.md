@@ -1,5 +1,7 @@
 # Prework Study Guide Webpage
-## A study guide for course pre-work.
+## Description
+
+A study guide for course pre-work.
 
 - I did this project as part of my Front End Development Bootcamp with Department for Education
 
@@ -23,7 +25,8 @@ Installation is not required as it is a website using HTML, CSS, and JS.
 
 ## Credits
 
-N/A Because I did this for a Skills Training Bootcamp by The Department for Education.
+- N/A
 
+- I did this for a Skills Training Bootcamp by The Department for Education.
 ## License
-MIT License
+Please refer to the LICENSE in the repo.
